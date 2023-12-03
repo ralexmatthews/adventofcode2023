@@ -1,6 +1,6 @@
 import fs from "node:fs";
 
-const file = fs.readFileSync("../challenge1/input.txt", "utf8");
+const file = fs.readFileSync("./day1/challenge2/input.txt", "utf8");
 
 const lines = file.split("\n");
 

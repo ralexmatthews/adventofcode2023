@@ -1,7 +1,7 @@
 {
-  "name": "challenge2",
+  "name": "adventofcode2023",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is my attempt at the Advent of Code 2023.",
   "main": "index.js",
   "type": "module",
   "scripts": {
